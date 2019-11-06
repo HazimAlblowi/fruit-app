@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fruit-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/fruit-app/static/js/main.7f04b6f3.chunk.js",
+    "main.js.map": "/fruit-app/static/js/main.7f04b6f3.chunk.js.map",
+    "runtime-main.js": "/fruit-app/static/js/runtime-main.030de396.js",
+    "runtime-main.js.map": "/fruit-app/static/js/runtime-main.030de396.js.map",
+    "static/js/2.d4fbbecd.chunk.js": "/fruit-app/static/js/2.d4fbbecd.chunk.js",
+    "static/js/2.d4fbbecd.chunk.js.map": "/fruit-app/static/js/2.d4fbbecd.chunk.js.map",
+    "index.html": "/fruit-app/index.html",
+    "precache-manifest.6ef631df296c8cdfd83fc242324a94e9.js": "/fruit-app/precache-manifest.6ef631df296c8cdfd83fc242324a94e9.js",
+    "service-worker.js": "/fruit-app/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/fruit-app/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.030de396.js",
+    "static/js/2.d4fbbecd.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.7f04b6f3.chunk.js"
+  ]
+}
